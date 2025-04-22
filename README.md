@@ -19,3 +19,7 @@ Ticket list updates dynamically without needing a page reload.
 ![Screenshot 2025-04-22 111139](https://github.com/user-attachments/assets/7091a423-fc72-4f3d-ae65-7c06899b959a)
 ![Screenshot 2025-04-22 111244](https://github.com/user-attachments/assets/ccc2be0e-f1ea-49a5-93ea-8e2a9362170e)
 ![Screenshot 2025-04-22 111232](https://github.com/user-attachments/assets/c90e189d-9947-4fa9-accc-23f63278f363)
+
+
+
+For queries 9550354436
